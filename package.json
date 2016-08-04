@@ -1,0 +1,22 @@
+{
+  "name": "gulpsample",
+  "version": "1.0.0",
+  "description": "gulp sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m19cmjigen/gulpsample.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "m19cmjigen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m19cmjigen/gulpsample/issues"
+  },
+  "homepage": "https://github.com/m19cmjigen/gulpsample#readme"
+}
