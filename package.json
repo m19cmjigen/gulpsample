@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/m19cmjigen/gulpsample/issues"
   },
-  "homepage": "https://github.com/m19cmjigen/gulpsample#readme"
+  "homepage": "https://github.com/m19cmjigen/gulpsample#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
